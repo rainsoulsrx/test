@@ -8,3 +8,4 @@ git tracks changes of files
 Add a line
 Add a line in feature1
 dev branch
+a new line
